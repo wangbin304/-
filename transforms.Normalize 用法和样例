@@ -1,7 +1,7 @@
 
 transforms.Normalize((0.5,0.5,0.5),(0.5,0.5,0.5))
 mean，std
-
+三通道
 
 
 class Normalize(torch.nn.Module):
