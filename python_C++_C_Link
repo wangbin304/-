@@ -1,5 +1,4 @@
 
-g++ -std=c++11 -shared -fPIC -o libmathBuf.so mathBuf.cpp
 
 
 /media/wangbin/G/GAN/GAN1.py
@@ -786,4 +785,5 @@ public:
 
 
 
+g++ -std=c++11 -shared -fPIC -o libmathBuf.so mathBuf.cpp
 
